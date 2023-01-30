@@ -1,0 +1,14 @@
+1- Create bdd
+2-Config SQL
+3-Create Page Agence
+4-CREATE FORMULAIRE
+5-INSERT INTO DATA FORMULAIRE
+
+Arborescence Procedural
+    assets (dossier)  
+    -css (dossier)  
+        - style.css
+    -img (dossier)    
+    view (dossier)  
+    agence.php
+    vehicule.php
